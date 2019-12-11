@@ -8,6 +8,8 @@ is two-folded, figuring out what is the best gaming strategy for players and wha
 To achieve these goals, we first conducted exploratory data analysis to identify some favorable behaviors and trained a LightGBM model
 to predict the wining place. Then we used two unsupervised learning method to find interesting player clusters and potential cheaters.
 
+![pipeline](https://github.com/yuweizhu1993/pubg-analysis/blob/master/pubg-pipeline.jpg?raw=true)
+
 We also created a short [video](https://www.youtube.com/watch?v=B0OR1FYodfE) to demonstrate this project.
 
 
